@@ -13,4 +13,7 @@ Sorular:
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 Cevaplar:
+<br>
+![BinarySearchTree](https://user-images.githubusercontent.com/9142018/185718556-aa17a93e-427a-4dce-a974-e450f2d96e02.PNG)
+
 
