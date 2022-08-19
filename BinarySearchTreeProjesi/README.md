@@ -16,4 +16,4 @@ Cevaplar:
 <br>
 ![BinarySearchTree](https://user-images.githubusercontent.com/9142018/185718556-aa17a93e-427a-4dce-a974-e450f2d96e02.PNG)
 
-
+root Rakamı: 7
