@@ -26,7 +26,7 @@ Cevaplar:
    [2, 6, 16, 22, 18, 27]
    [2, 6, 16, 18, 22, 27]
 
-2- O(n2)
+2- O(n2) => O(6'2)
 
 3- Üçüncü soruda bizlere verilen tanımlara göre 18 rakamı Average Case kapsamına girmektedir.
 
