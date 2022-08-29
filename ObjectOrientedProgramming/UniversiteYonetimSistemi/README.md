@@ -19,6 +19,8 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
-##Cevap:
+> Cevap: <br>
+
+![UniversiteDiyagrami drawio](https://user-images.githubusercontent.com/9142018/187235954-e74c5e01-1bce-4fa4-adef-d7c8edbb9df5.png)
 
 
