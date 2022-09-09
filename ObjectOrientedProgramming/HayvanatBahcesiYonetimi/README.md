@@ -24,4 +24,8 @@ Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı ola
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.<br>
 
 ### Cevap:
+<br>
+
+![odev1](https://user-images.githubusercontent.com/9142018/189454602-b3bbf9f4-fe62-4a66-b68d-833e40cafc57.png)
+
 
