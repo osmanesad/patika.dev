@@ -1,3 +1,4 @@
+<br>
 Patika.dev platformunda verilen eğitmlerden "Object Oriented Programming" adlı ders bitiminde talep edilen soruların cevapları aşağıdadır.
 
 Kaynak: https://app.patika.dev/courses/oop
